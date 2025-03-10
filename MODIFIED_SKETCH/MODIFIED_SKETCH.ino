@@ -9,6 +9,3 @@ void loop() {
 }
 Cooper Correa
 Modified Sketch
-Extra Line 
-Extra Line
-Extra Line
